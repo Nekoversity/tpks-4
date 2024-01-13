@@ -1,0 +1,66 @@
+P-CAD Net List Load Errors
+
+======================================================================
+
+Netlist filename: C:\TPKS\4\TemperatureSensor.net
+Error: line 2
+   * Component KP1436AP1 not loaded.  Component is not in library.
+Error: Net NET00000: Refdes 1 of 1-4 not found.
+Error: Net GND: Refdes 1 of 1-5 not found.
+Error: Net NET00005: Refdes 1 of 1-2 not found.
+Error: Net NET00006: Refdes 1 of 1-3 not found.
+Error: Net NET00009: Refdes 1 of 1-6 not found.
+Error: Net NET00010: Refdes 1 of 1-7 not found.
+Error: Net NET00013: Refdes 1 of 1-8 not found.
+Error: Net +12B: Refdes 1 of 1-1 not found.
+
+Net List Errors:   9
+Net List Warnings: 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+07-Jan-24  10:25                                            Page    1
+
